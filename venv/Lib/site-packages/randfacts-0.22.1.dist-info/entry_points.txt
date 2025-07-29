@@ -1,0 +1,3 @@
+[console_scripts]
+randfacts=randfacts.randfacts:_cli_entrypoint
+

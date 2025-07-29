@@ -1,0 +1,6 @@
+{
+    "font": "font/Lexend-ExtraBold.ttf",
+    "fontsize": 45,
+    "interval": 15,
+    "description": "The interval is in minutes."
+}
