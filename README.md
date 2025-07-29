@@ -1,4 +1,4 @@
-# [Your Project Name]
+# FactsWallpaperApp
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 ## Table of Contents
@@ -8,19 +8,11 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
 ## About the Project
-
-
-
-### Features
+A simple app that adds random facts on your wallpapers!
 
 
 ### Built With
@@ -33,7 +25,7 @@
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+Simply run the main.py, when prompted, type y or yes and press enter.
 
 ### Prerequisites
 
